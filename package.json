@@ -1,0 +1,17 @@
+{
+  "name": "country-state-select",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to select country and state.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
